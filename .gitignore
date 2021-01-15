@@ -1,0 +1,7 @@
+*.log
+*.iml
+*.so
+.idea
+out
+.directory
+*.raw
